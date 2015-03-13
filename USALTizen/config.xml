@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://USAL/USALTizen" version="1.0.0" viewmodes="maximized">
     <access origin="*" subdomains="true"></access>
     <tizen:application id="Zv1lU1ugbI.USALTizen" package="Zv1lU1ugbI" required_version="2.2"/>
-    <author email="marco@flagsolutions.net">Marco FLAG Solutions</author>
+    <author email="marco@flagsolutions.net">Marco Pro</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
     <icon src="icon.png"/>
